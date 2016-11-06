@@ -1,6 +1,6 @@
 # notebook
 
-This repository stores my R notebooks, allowing GitHub Pages to serve R Notebooks, without having to include a redundant, heavy `index.html` in every repository.
+This GitHub Repository stores my R Notebooks, allowing GitHub Pages to serve the R Notebooks on my website without me having to include a redundant, heavy `index.html` in every corresponding repository. All the notebooks will be served from a `/notebooks/` folder, which has SEO benefits as well.
 
 Refer to the original repository for each notebook where appropriate.
 
